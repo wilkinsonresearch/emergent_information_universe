@@ -31,8 +31,8 @@ By simulating these processes, the project aims to spark discussion and research
 
 - **[Simulations](simulations/):** Core simulation code and modules.
 - **[Docs](docs/):** Detailed documentation, tutorials, and technical references.
-- **[Blog_core](blog_code/):** Code from blog posts and conceptual write-ups.
-- **[Notebooks](notebooks/):** Interactive notebooks for demonstration and analysis.
+- **[Blog_code](blog_code/):** Code from blog posts and conceptual write-ups.
+- **[Notebooks](notebooks/):** Interactive notebooks and manuals
 
 ## Installation
 
