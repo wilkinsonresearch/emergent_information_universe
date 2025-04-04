@@ -127,8 +127,8 @@ QubixTimeDilation/
 │   ├── gravity/
 │   ├── velocity/
 │   ├── combined/
-    ├── simulation_log.txt            # Full console output
-    └── summary_stats.csv             # One-line summary per mode
+│    ├── simulation_log.txt            # Full console output
+│    └── summary_stats.csv             # One-line summary per mode
 ├── README.md
 ├── requirements.txt
 └── LICENSE
