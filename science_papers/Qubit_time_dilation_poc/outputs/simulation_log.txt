@@ -1,0 +1,14 @@
+=== Qubix Time Dilation Simulation (POC) ===
+Start Time: 2025-04-04 19:37:40
+Random Seed: 42
+Grid Size: (50, 50, 50)
+Max Steps: 100
+G: 0.001, M: 1000.0, c: 1.0
+Measure Prob (Base): 0.02
+--------------------------------------
+[STANDARD] Memory Avg: 0.707,  Δ(Quantum - Global): 0.707
+[GRAVITY] Memory Avg: 0.502,  Δ(Quantum - Global): -52.805
+[VELOCITY] Memory Avg: 0.709,  Δ(Quantum - Global): -15.194
+[COMBINED] Memory Avg: 0.505,  Δ(Quantum - Global): -60.097
+=== Simulation Complete ===
+
